@@ -10,7 +10,7 @@ function App() {
         <div>FadhilPorto</div>
         <div>
           <ul className="flex justify-around text-sky-400  text-lg font-medium">
-            <a href="#">
+            <a href="#home">
               <li className="mx-4">Home</li>
             </a>{" "}
             <a href="#profile" className="scroll-smooth">
@@ -22,7 +22,7 @@ function App() {
           </ul>
         </div>
       </div>
-      <div className="flex justify-between px-11 h-screen ">
+      <div className="flex justify-between px-11 h-screen " id="home">
         <div className="mt-40">
           <h1 className="text-4xl text-sky-400 ">Hello</h1>
           <h1 className="text-6xl font-semibold mt-4 text-sky-400">
