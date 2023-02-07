@@ -10,7 +10,7 @@ function App() {
         <div>FadhilPorto</div>
         <div>
           <ul className="flex justify-around text-sky-400  text-lg font-medium">
-            <a href="">
+            <a href="#">
               <li className="mx-4">Home</li>
             </a>{" "}
             <a href="#profile" className="scroll-smooth">
